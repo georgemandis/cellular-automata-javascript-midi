@@ -8,10 +8,10 @@ Inspired by [Tero Parviainen's](https://github.com/teropa) talk at FullStack Lon
 
 If you have a Novation Launchpad MK2 and are using Chrome you can plug it into your computer right now and see the demo here:
 
-[https://georgemandis.github.io/cellular-automata-javascript-midi/](https://georgemandis.github.io/cellular-automata-javascript-midi/)
+🎹 [https://georgemandis.github.io/cellular-automata-javascript-midi/](https://georgemandis.github.io/cellular-automata-javascript-midi/)
 
 More information for this demo can be found in this blog post:
 
-[https://george.mand.is/2017/10/cellular-automata-javascript-midi](https://george.mand.is/2017/10/cellular-automata-javascript-midi)
+👓 [https://george.mand.is/2017/10/cellular-automata-javascript-midi](https://george.mand.is/2017/10/cellular-automata-javascript-midi)
 
 For additional demos, resources and information regarding my talk on JavaScript and MIDI please visit [midi.mand.is](https://midi.mand.is).
